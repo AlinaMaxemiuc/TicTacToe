@@ -1,0 +1,48 @@
+C:\Users\Cristina\Desktop\joc\joc\bin\Debug\joc.exe.config
+C:\Users\Cristina\Desktop\joc\joc\bin\Debug\joc.exe
+C:\Users\Cristina\Desktop\joc\joc\bin\Debug\joc.pdb
+C:\Users\Cristina\Desktop\joc\joc\obj\Debug\joc.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\joc\joc\obj\Debug\joc.Form1.resources
+C:\Users\Cristina\Desktop\joc\joc\obj\Debug\joc.Properties.Resources.resources
+C:\Users\Cristina\Desktop\joc\joc\obj\Debug\joc.csproj.GenerateResource.cache
+C:\Users\Cristina\Desktop\joc\joc\obj\Debug\joc.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\joc\joc\obj\Debug\joc.exe
+C:\Users\Cristina\Desktop\joc\joc\obj\Debug\joc.pdb
+G:\joc\joc\bin\Debug\joc.exe.config
+G:\joc\joc\obj\Debug\joc.exe
+G:\joc\joc\obj\Debug\joc.pdb
+G:\joc\joc\bin\Debug\joc.exe
+G:\joc\joc\bin\Debug\joc.pdb
+G:\joc\joc\bin\Debug\mscorlib.dll
+G:\joc\joc\bin\Debug\normidna.nlp
+G:\joc\joc\bin\Debug\normnfc.nlp
+G:\joc\joc\bin\Debug\normnfd.nlp
+G:\joc\joc\bin\Debug\normnfkc.nlp
+G:\joc\joc\bin\Debug\normnfkd.nlp
+G:\joc\joc\obj\Debug\joc.csprojResolveAssemblyReference.cache
+G:\joc\joc\obj\Debug\joc.Form1.resources
+G:\joc\joc\obj\Debug\joc.Properties.Resources.resources
+G:\joc\joc\obj\Debug\joc.csproj.GenerateResource.Cache
+G:\joc.C#proiect\joc\bin\Debug\joc.exe.config
+G:\joc.C#proiect\joc\obj\Debug\joc.exe
+G:\joc.C#proiect\joc\obj\Debug\joc.pdb
+C:\Users\Cristina\Desktop\INFO\C#\C# proiecte\joc.C#proiect\joc\bin\Debug\joc.exe.config
+C:\Users\Cristina\Desktop\INFO\C#\C# proiecte\joc.C#proiect\joc\bin\Debug\joc.exe
+C:\Users\Cristina\Desktop\INFO\C#\C# proiecte\joc.C#proiect\joc\bin\Debug\joc.pdb
+C:\Users\Cristina\Desktop\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.csprojAssemblyReference.cache
+C:\Users\Cristina\Desktop\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.Form1.resources
+C:\Users\Cristina\Desktop\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.Properties.Resources.resources
+C:\Users\Cristina\Desktop\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.csproj.GenerateResource.cache
+C:\Users\Cristina\Desktop\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Desktop\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.exe
+C:\Users\Cristina\Desktop\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.pdb
+D:\Desktop\Amestecate\INFO\C#\C# proiecte\joc.C#proiect\joc\bin\Debug\joc.exe.config
+D:\Desktop\Amestecate\INFO\C#\C# proiecte\joc.C#proiect\joc\bin\Debug\joc.exe
+D:\Desktop\Amestecate\INFO\C#\C# proiecte\joc.C#proiect\joc\bin\Debug\joc.pdb
+D:\Desktop\Amestecate\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.csprojAssemblyReference.cache
+D:\Desktop\Amestecate\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.Form1.resources
+D:\Desktop\Amestecate\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.Properties.Resources.resources
+D:\Desktop\Amestecate\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.csproj.GenerateResource.cache
+D:\Desktop\Amestecate\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.csproj.CoreCompileInputs.cache
+D:\Desktop\Amestecate\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.exe
+D:\Desktop\Amestecate\INFO\C#\C# proiecte\joc.C#proiect\joc\obj\Debug\joc.pdb
